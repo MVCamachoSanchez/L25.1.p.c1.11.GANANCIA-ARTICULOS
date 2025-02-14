@@ -1,3 +1,10 @@
+/** Conociendo el código, costo y el precio de venta de los artículos que vende una tienda, se
+desea hacer un procesamiento que determine la ganancia total que tendría la empresa al
+venderlos todos, y también el código del artículo con mayor precio de venta.
+El encargado de la tienda informa que dispone de los siguientes artículos: 888 (costo $10,
+precio venta $15), 777 (costo $20, precio $25), 999 ($15, $25), 666 ($25, $35), 111 ($50, $70),
+333 ($40, $50), 444 ($80, $100) y 222 ($5, $10) */
+
 import Cl_Empresa from "./Cl_Empresa.js";
 import Cl_tienda from "./Cl_tienda.js";
 
